@@ -23,5 +23,8 @@ Correlation: Weather and sales trends, promotional impacts on satisfaction.
 Segmentation: Revenue by category, returns by category, satisfaction by age group.
 Performance Indicators: Revenue, satisfaction, discount effectiveness.
 
-# Dashboard:  https://drive.google.com/file/d/1HcSjjmhUh9aYnizCbxQF4b2fGNnuEGon/view?usp=sharing
+
+Dataset: https://www.kaggle.com/datasets/ibikunlegabriel/christmas-sales-and-trends
+
+Dashboard:  https://drive.google.com/file/d/1HcSjjmhUh9aYnizCbxQF4b2fGNnuEGon/view?usp=sharing
 
